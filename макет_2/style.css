@@ -1,0 +1,19 @@
+
+.page{
+    height: 100vh;
+    box-sizing: border-box;
+    display: flex;
+}
+.page-left{
+    height: 100%;
+    width: 45%;
+    background-image: url('bg.png');
+    background-size: cover;
+    background-position: center;
+}
+.page-right{
+  background-color: gold;
+    width: 55%;
+  height: 100%;
+    
+}
